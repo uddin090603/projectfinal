@@ -29,7 +29,7 @@ final size = MediaQuery.of(context).size;
                   Row(
               mainAxisAlignment: MainAxisAlignment.start,
               children: [
-                Text('SMART', style: TextStyle(fontSize: 33, color: Colors.white,),),
+                Text('SMART ', style: TextStyle(fontSize: 33, color: Colors.white,),),
                 
               ],
             ),
